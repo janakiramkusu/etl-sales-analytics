@@ -1,0 +1,5 @@
+CustomerName,ProductName,Quantity,Price,SaleDate,City
+Alice,Notebook,2,150.00,2025-11-01,Hyderabad
+Bob,Pen,5,10.00,2025-11-02,Vizag
+Alice,Pen,3,10.00,2025-11-03,Hyderabad
+Ravi,Pencil,4,5.00,2025-11-03,Chennai
